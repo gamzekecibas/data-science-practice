@@ -1,7 +1,7 @@
 # data-science-practice
 Data analysis &amp; AI/ML model practices with open datasets
----
-## [Telecom Customer Churn Prediction](https://github.com/gamzekecibas/data-science-practice/tree/main/telecom-churn-practice):
+
+## [Telecom Customer Churn Prediction:](https://github.com/gamzekecibas/data-science-practice/tree/main/telecom-churn-practice)
 
 ### Project Overview
 This project aims to predict customer churn in a telecommunications company. Various factors, might influence a customer's decision to leave the service provider, are analyzed.
